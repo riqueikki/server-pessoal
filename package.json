@@ -1,0 +1,12 @@
+{
+  "name": "meu-servidor-pessoal",
+  "version": "1.0.0",
+  "description": "Servidor pessoal com Node.js e Express - projeto introdutório de back-end.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
